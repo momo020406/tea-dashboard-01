@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-09 09:44:27",
+  "last_update": "2026-03-09 09:45:32",
   "weather": {
     "location": "南投名間鄉",
     "condition": "晴",
@@ -11,8 +11,8 @@
   "stations": [
     {
       "name": "Station1",
-      "temp": 22.2,
-      "moist": 25.6,
+      "temp": 22.1,
+      "moist": 26.2,
       "ec": 94,
       "ph": 5.6,
       "n": 12,
@@ -22,32 +22,32 @@
     {
       "name": "Station2",
       "temp": 22.2,
-      "moist": 25.2,
-      "ec": 164,
+      "moist": 25.5,
+      "ec": 117,
       "ph": 4.0,
-      "n": 13,
-      "p": 17,
-      "k": 43
-    },
-    {
-      "name": "Station3",
-      "temp": 22.1,
-      "moist": 26.1,
-      "ec": 114,
-      "ph": 5.2,
       "n": 12,
       "p": 16,
       "k": 41
     },
     {
-      "name": "Station4",
-      "temp": 21.4,
-      "moist": 22.6,
-      "ec": 103,
-      "ph": 4.0,
+      "name": "Station3",
+      "temp": 22.1,
+      "moist": 25.9,
+      "ec": 84,
+      "ph": 5.4,
       "n": 12,
       "p": 16,
       "k": 40
+    },
+    {
+      "name": "Station4",
+      "temp": 21.4,
+      "moist": 22.6,
+      "ec": 140,
+      "ph": 4.0,
+      "n": 12,
+      "p": 16,
+      "k": 42
     }
   ]
 }
